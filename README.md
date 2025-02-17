@@ -194,4 +194,4 @@ DEFAULT_ADDRESS = "ADDRESS_NOT_SET"
 DEFAULT_PAYMENT_OPTION = "PAYMENT_OPTION_DEFAULT"
 ```
 
-This documentation covers the main functionality of the QKart backend. For detailed implementation, refer to the specific service and controller files in the codebase.
+This documentation covers the main functionality of the Project backend. For detailed implementation, refer to the specific service and controller files in the codebase.
