@@ -1,4 +1,4 @@
-# QKart Backend Documentation
+# PEP_Project
 
 ## Overview
 QKart is an e-commerce backend application built with Node.js, Express, and MongoDB. It provides APIs for user authentication, product management, cart operations, and checkout functionality.
